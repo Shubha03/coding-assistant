@@ -22,7 +22,7 @@ It works like a multi-agent development team that can take a natural language re
 ### ⚙️ **Instsllstion and Startup**
 - Create a virtual environment using: `uv venv` and activate it using `source .venv/bin/activate`
 - Install the dependencies using: `uv pip install -r pyproject.toml`
-- Create a `.env` file and add the variables and their respective values mentioned in the `.sample_env` file
+- Create a `.env` file and add the variables and their respective values
 
 Now that we are done with all the set-up & installation steps we can start the application using the following command:
   ```bash
